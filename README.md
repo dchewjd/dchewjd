@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darren Chew</h1>
 <h3 align="center">A Software Engineer from Singapore</h3>
 
-- 🔭 View my work at [darrenchew.xyz](darrenchew.xyz)
+- 🔭 View my work at [darrenchew.xyz](https://darrenchew.xyz)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
